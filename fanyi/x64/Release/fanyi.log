@@ -1,0 +1,19 @@
+﻿  baiduapi.cpp
+D:\cpp_project\fanyi\fanyi\ocr\ocr.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\cpp_project\fanyi\fanyi\ocr\base\base64.h(100,73): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\ocr\base\base64.h(117,69): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\ocr\ocr.h(540,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(79,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(88,9): warning C4101: “hdcStatic”: 未引用的局部变量
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(196,19): warning C4101: “myfp1”: 未引用的局部变量
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(478,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(578,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(596,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(599,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp_project\fanyi\fanyi\baiduapi.cpp(611,76): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 1387 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  fanyi.vcxproj -> D:\cpp_project\fanyi\x64\Release\fanyi.exe
